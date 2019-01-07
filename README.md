@@ -1,4 +1,4 @@
-# ee542lab5
+# Fast Reliable File Transfer
 
 EE542 - Internet and Cloud Computing
 Laboratory 5
